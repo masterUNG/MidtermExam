@@ -38,6 +38,7 @@ public class CalculateFragment extends Fragment {
                         .addToBackStack(null)
                         .commit();
 
+
             }
         });
 
